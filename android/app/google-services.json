@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "434461280902",
+    "project_id": "flutter-chat-7b829",
+    "storage_bucket": "flutter-chat-7b829.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:434461280902:android:c5ddd4a020618887bcdf07",
+        "android_client_info": {
+          "package_name": "com.exokames.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "434461280902-ueprpfqctqlo1tef3fgqa1s4qsk3m8mb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSSLH7_zJYKn0r2Egb-kgmoeJ0iLZg-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "434461280902-ueprpfqctqlo1tef3fgqa1s4qsk3m8mb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
